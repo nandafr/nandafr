@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nanda Fathurrizki a.k.a @nandafr
-- 👀 I’m interested in Mobile Development & UI/UX
-- 🌱 I'm currently learning to support society through technology
+- 👋 Hi, I’m Nanda Fathurrizki a.k.a nandafr
+- 👀 I’m interested in Mobile App Development & UI/UX
+- 🌱 I'm currently working as an Android developer and creating free apps to make people's work easier
 - 📫 How to reach me follow ig: @nandfrr or email at hallo@nandafr.com
 
 <!---
